@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /*PowerReviews*
+Disallow: /*prefn1
+Disallow: /*prefv1
+Disallow: /*Vista-previa*
+Disallow: /*pmin
+Disallow: /*pmax
+Disallow: /*bolsa?dwcont*
+Disallow: /*srule
+Disallow: /*start=*
+Disallow: /*Cuenta
+Disallow: /bolsat*
+Disallow: /*Checkout
+Disallow: *view=grid*
+Disallow: *view=list*
+Disallow: /*Busqueda
+Disallow: /*Bolsa
+Disallow: /*icn=
+Disallow: /*pr_rd
+Disallow: /*dwvar
+Disallow: /*shop=
+
+Sitemap:https://www.lapolar.cl/sitemap_index.xml
+Sitemap:https://www.lapolar.cl/sitemap_0.xml
+Sitemap:https://www.lapolar.cl/sitemap_1.xml
+Sitemap:https://www.lapolar.cl/sitemap_2.xml
